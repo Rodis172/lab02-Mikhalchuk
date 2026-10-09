@@ -1,0 +1,14 @@
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\bin\Debug\net10.0\Lab02-Mikhalchuk.exe
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\bin\Debug\net10.0\Lab02-Mikhalchuk.deps.json
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\bin\Debug\net10.0\Lab02-Mikhalchuk.runtimeconfig.json
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\bin\Debug\net10.0\Lab02-Mikhalchuk.dll
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\bin\Debug\net10.0\Lab02-Mikhalchuk.pdb
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.AssemblyInfoInputs.cache
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.AssemblyInfo.cs
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.csproj.CoreCompileInputs.cache
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.dll
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\refint\Lab02-Mikhalchuk.dll
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.pdb
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\Lab02-Mikhalchuk.genruntimeconfig.cache
+C:\Users\Student_06\Documents\Lab02-Mikhalchuk\obj\Debug\net10.0\ref\Lab02-Mikhalchuk.dll
